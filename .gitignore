@@ -3,4 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
 # Macos
+.DS_Store
+.idea
